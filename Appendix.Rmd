@@ -1,5 +1,5 @@
 ---
-title:  "STAT 331 Final Project"
+title:  "Final Report"
 output: pdf_document
 fontsize: 12pt
 ---
@@ -7,12 +7,6 @@ fontsize: 12pt
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = F)
 ```
-
-## By: 
-## Audrey Anggitawijaya (20824582, aanggita)
-## Aurelya Wibowo (20853893, arwibowo)
-## Callista Chong (20838195, c23chong)
-## Clara Putri Ong (20846106, cp2ong)
 
 \pagebreak
 
